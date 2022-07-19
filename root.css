@@ -1,0 +1,54 @@
+header {
+    padding-top: 20px;
+}
+body{
+    text-align: center;
+    
+}
+
+.flexbox-container1{
+    border: 3px solid black;
+    display: flex;
+    padding: 7px;  
+    justify-content:space-around;
+
+    flex-wrap: wrap;
+}
+
+.flexbox-container1 div{
+    padding: 10px;
+    
+}
+
+
+.flexboxContainer1{
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+.flexboxContainer1 div{
+    padding: 5px;
+    border: 3px solid black;
+}
+
+#form1 {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    justify-content: space-around;  
+    border: 3px solid black;
+}
+#form1 input{
+    background-color: rgb(253, 229, 201);
+}
+#form1 border{
+    padding-left: 2px;
+}
+
+.formcss {
+    
+    justify-content: center;
+}
+
